@@ -27,9 +27,6 @@
 # Asset store tools plugin
 /[Aa]ssets/AssetStoreTools/
 
-# TextMesh Pro (auto-imported via Package Manager)
-/[Aa]ssets/TextMesh Pro/
-
 # Unity search index (auto-generated)
 Assets.index
 Assets.index.meta
